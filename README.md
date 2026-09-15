@@ -11,13 +11,15 @@
 * Gérer les exceptions **`IOException`** et **`ClassNotFoundException`**.
 * Les extensions proposées concernent la sérialisation conditionnelle, les collections indexées, les flux NIO et le versionnage de la classe.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014234.png />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014249.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014315.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014326.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014341.png" />
 
 # Exercice 2 - Sérialisation avancée avec Externalizable
 
@@ -32,10 +34,12 @@
 * Utiliser le **try-with-resources** et gérer **`IOException`** et **`ClassNotFoundException`**.
 * Les extensions proposées concernent les formats JSON/XML, la compression avec **`GZIPOutputStream`**, la mise à jour incrémentale et la journalisation des versions.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014400.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014412.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014430.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014442.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 014452.png" />
